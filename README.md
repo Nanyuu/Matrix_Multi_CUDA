@@ -1,2 +1,2 @@
 # Matrix_Multi_CUDA
- realize Matrix Multi with CUDA
+ implement Matrix Multi with CUDA
